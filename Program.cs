@@ -28,20 +28,18 @@ namespace myproject
             String - string "shubham";
             */
 
-            
             int a = 35;
             double b = 34.5D;
             float c = 32.2f;
             bool isGreat = true;
             char d ='r';
+
+            //printing command
             Console.WriteLine(a);
             Console.WriteLine(b);
             Console.WriteLine(c);
             Console.WriteLine(isGreat);
             Console.WriteLine(d);
-
-
-
         }
     }
 }
